@@ -1,21 +1,3 @@
-<style>
-  * {
-    box-sizing: border-box;
-  }
-
-  .row {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-  }
-
-  /* .column {
-    flex: 100%;
-    padding: 5px;
-  } */
-
-</style>
-
 <h1 align="center">
   <img
    title="hackermans"
