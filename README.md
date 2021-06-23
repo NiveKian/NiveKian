@@ -34,11 +34,6 @@ some things i currently studying
 <br>
 
 <div>
-  <img 
-    align="left"
-    src="A1-HYPERS.png"
-    width=50%
-  />
 
   <div align="center">
     <p align="center">
