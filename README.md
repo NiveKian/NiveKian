@@ -1,9 +1,4 @@
 <h1 align="center">
-  <img
-   title="hackermans"
-   src="HACKERJAMS.gif"
-   width=20%
-  />
   <p>
     HEYDO Folks From The Outlands !!! 
   </p>
