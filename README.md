@@ -35,19 +35,3 @@ Some things i currently studying
 
 <br>
 <br>
-
-<div>
-
-  <div align="center">
-    <p align="center">
-    Random Facts
-    </p>
-
-    -> Showers really do spark creativity
-    -> Dolphins have been trained to wars
-    -> You can always "see" your nose
-    -> The Australian government banned the word "mate" for a day
-
-  </div>
-
-</div>
