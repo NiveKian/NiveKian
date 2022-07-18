@@ -1,6 +1,6 @@
 <h1 align="center">
   <p>
-    HEYDO Folks From The Outlands !!! 
+    HEYDO
   </p>
 </h1>
 
