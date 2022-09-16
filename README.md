@@ -4,14 +4,14 @@
   </p>
 </h1>
 
-/*
+<!--
 <p> I'm Ian Antunes a dank software student from Bahia Brazil.
 Currently studying at UESB and looking for opportunities to learn new
 features,languages,frameworks etc and implement my skills by myself or
 in a job with other people. Interested in backend and frontend web 
 development,data science and passionate about games.
 </p>
-*/
+-->
 
 ## **Languages**
 
